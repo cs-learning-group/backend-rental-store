@@ -1,9 +1,9 @@
 # backend-rental-store
 
-** Clone it!
+- Clone it!
 
-** cd backend-rental-store
+- cd backend-rental-store
 
-** npm i 
+- npm i 
 
 ## Done!
