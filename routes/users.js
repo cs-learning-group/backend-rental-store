@@ -5,6 +5,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', async (req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', '*');
   res.contentType('json')
   const filePath = `${__dirname}/../db.txt`;
   console.log('inside get function');
