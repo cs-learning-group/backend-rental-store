@@ -4,6 +4,10 @@
 
 - cd backend-rental-store
 
-- npm i 
+- move to develop branch:`git checkout develop`
+
+- install dependencies: `npm i`
+
+- npm run server
 
 ## Done!
